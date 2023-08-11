@@ -1,0 +1,9 @@
+
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8û‰ü®Š1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¶‘–8û‰ü®Š1
+[
+java:S1858">"trim" returns a string, there's no need to call "toString()".(—Ç´™8¦”ü®Š1
+`
+java:S1858">"trim" returns a string, there's no need to call "toString()".(—žúðÿÿÿÿÿ8È”ü®Š1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôæ×™þÿÿÿÿ8ý”ü®Š1

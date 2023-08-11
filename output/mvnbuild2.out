@@ -1,0 +1,49 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" -Dmaven.multiModuleProjectDirectory=F:\java-projects\bicky-raj_kayastha-adv-java "-Dmaven.home=C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\plugins\maven\lib\maven3" "-Dclassworlds.conf=C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\plugins\maven\lib\maven3\bin\m2.conf" "-Dmaven.ext.class.path=C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\plugins\maven\lib\maven-event-listener.jar" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\lib\idea_rt.jar=60676:C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2022.1.1\plugins\maven\lib\maven3\boot\plexus-classworlds.license" org.codehaus.classworlds.Launcher -Didea.version=2022.1.1 install -U
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------< org.example:bicky-raj_kayastha-adv-java >---------------
+[INFO] Building bicky-raj_kayastha-adv-java 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ bicky-raj_kayastha-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 0 resource
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ bicky-raj_kayastha-adv-java ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ bicky-raj_kayastha-adv-java ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory F:\java-projects\bicky-raj_kayastha-adv-java\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ bicky-raj_kayastha-adv-java ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ bicky-raj_kayastha-adv-java ---
+[INFO] Surefire report directory: F:\java-projects\bicky-raj_kayastha-adv-java\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestPassengerCsvReader
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+
+Results :
+
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO]
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ bicky-raj_kayastha-adv-java ---
+[INFO] Building jar: F:\java-projects\bicky-raj_kayastha-adv-java\target\bicky-raj_kayastha-adv-java-1.0-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ bicky-raj_kayastha-adv-java ---
+[INFO] Installing F:\java-projects\bicky-raj_kayastha-adv-java\target\bicky-raj_kayastha-adv-java-1.0-SNAPSHOT.jar to C:\Users\bicky\.m2\repository\org\example\bicky-raj_kayastha-adv-java\1.0-SNAPSHOT\bicky-raj_kayastha-adv-java-1.0-SNAPSHOT.jar
+[INFO] Installing F:\java-projects\bicky-raj_kayastha-adv-java\pom.xml to C:\Users\bicky\.m2\repository\org\example\bicky-raj_kayastha-adv-java\1.0-SNAPSHOT\bicky-raj_kayastha-adv-java-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.538 s
+[INFO] Finished at: 2023-06-10T18:03:59+02:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0

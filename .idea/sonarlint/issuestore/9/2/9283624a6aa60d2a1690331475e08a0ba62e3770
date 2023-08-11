@@ -1,0 +1,21 @@
+
+J
+java:S26998"-Add at least one assertion to this test case.(Óÿ§’8êû¬áŠ1
+J
+java:S2699S"-Add at least one assertion to this test case.(œ€ùÉ8š¦­áŠ1
+J
+java:S2699X"-Add at least one assertion to this test case.(¾´8ØàáŠ1
+§
+java:S3577"„Rename class "JUnit" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ñ–¿ıÿÿÿÿ8ùû¬áŠ1
+;
+java:S57868"Remove this 'public' modifier.(Óÿ§’8ùû¬áŠ1
+@
+java:S5786A"Remove this 'public' modifier.(åÀÅ—ûÿÿÿÿ8ùû¬áŠ1
+;
+java:S5786S"Remove this 'public' modifier.(œ€ùÉ8¤¦­áŠ1
+;
+java:S5786X"Remove this 'public' modifier.(¾´8ÛàáŠ1
+:
+java:S5786]"Remove this 'public' modifier.(Ëİİ8ÜàáŠ1
+4
+java:S5785O"Use assertNull instead.(ê¿é8ä¥ÔáŠ1
